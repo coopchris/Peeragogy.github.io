@@ -52,6 +52,7 @@ Signed:
 -   Lisa Snow MacDonald
 -   Fabrizio Terzi
 -   Geoff Walker
+-   Chris Meadows
 
 Note that this waiver does not apply to other works by the above
 authors, including works linked to from
